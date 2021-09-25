@@ -1,1 +1,1 @@
-python3.8 -m pip install --upgrade pip'
+'/home/circleci/.pyenv/versions/3.8.12/bin/python3.8 -m pip install --upgrade pip'
